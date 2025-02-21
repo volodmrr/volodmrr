@@ -1,4 +1,4 @@
-👋 Hi, I'm **Volodymyr Lomaka** – a **Senior Frontend Developer** with over 6 years of experience, specializing in **React**, **React Native**, and **TypeScript**. I've developed and optimized scalable web and mobile applications across industries like **healthcare**, **e-commerce**, **fintech**, and **martech**.
+👋 Hi, I'm **Volodymyr** – a **Senior Frontend Developer** with over 6 years of experience, specializing in **React**, **React Native**, and **TypeScript**. I've developed and optimized scalable web and mobile applications across industries like **healthcare**, **e-commerce**, **fintech**, and **martech**.
 
 I’ve built projects from the ground up and refactored existing applications to enhance performance and stability. I work closely with **design**, **backend**, and **testing** teams, ensuring seamless communication and successful project outcomes. My passion lies in creating efficient, maintainable, and scalable solutions, with a focus on modern development practices like **CI/CD pipelines**, thorough testing, and **cloud integrations**.
 
